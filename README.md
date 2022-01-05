@@ -8,13 +8,13 @@ The resource pack is updated to the latest version of Minecraft. Textures are co
 I highly recommend :<br>
 OptiFine - https://www.optifine.net/home<br>
 OR
-	Fabric - https://fabricmc.net/
-	Sodium - https://www.curseforge.com/minecraft/mc-mods/sodium
-	Phosphor - https://www.curseforge.com/minecraft/mc-mods/phosphor
-	Lithium - https://www.curseforge.com/minecraft/mc-mods/lithium
-	Indium - https://www.curseforge.com/minecraft/mc-mods/indium/files
-	Continuity - https://www.curseforge.com/minecraft/mc-mods/continuity/files
-	Colormatic - https://www.curseforge.com/minecraft/mc-mods/colormatic
+	Fabric - https://fabricmc.net/ - 
+	Sodium - https://www.curseforge.com/minecraft/mc-mods/sodium - 
+	Phosphor - https://www.curseforge.com/minecraft/mc-mods/phosphor - 
+	Lithium - https://www.curseforge.com/minecraft/mc-mods/lithium - 
+	Indium - https://www.curseforge.com/minecraft/mc-mods/indium/files - 
+	Continuity - https://www.curseforge.com/minecraft/mc-mods/continuity/files - 
+	Colormatic - https://www.curseforge.com/minecraft/mc-mods/colormatic - 
 	Iris - https://www.curseforge.com/minecraft/mc-mods/irisshaders<br>
 AND
 Complementary Shaders - https://www.curseforge.com/minecraft/customization/complementary-shaders<br><br>
