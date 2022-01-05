@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/redstone_ore" },
+            { "model": "block/redstone_ore/0" },
+            { "model": "block/redstone_ore/1" },
+            { "model": "block/redstone_ore/2" }
+        ]
+    }
+}
+
