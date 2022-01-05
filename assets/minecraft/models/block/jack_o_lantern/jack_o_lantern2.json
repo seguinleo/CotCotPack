@@ -1,0 +1,9 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "block/pumpkin_top",
+        "bottom": "block/pumpkin_bottom",
+        "front": "ctm/jack_o_lantern/2",
+        "side": "block/pumpkin_side"
+    }
+}
