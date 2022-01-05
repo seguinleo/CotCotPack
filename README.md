@@ -1,10 +1,10 @@
 # Minecraft-Resource-Pack
 
 CotCot is a PVP / Build / Survival resource pack for Java and Bedrock.<br>
-Textures are compressed and optimized for toasters.<br><br>
+The resource pack is updated to the latest version of Minecraft. Textures are compressed and optimized for toasters.<br><br>
 ![1](https://github.com/PouletEnSlip/Minecraft-Resource-Pack/blob/main/1.png)<br>
 ![2](https://github.com/PouletEnSlip/Minecraft-Resource-Pack/blob/main/2.png)<br>
-![3](https://github.com/PouletEnSlip/Minecraft-Resource-Pack/blob/main/3.png)<br>
+![3](https://github.com/PouletEnSlip/Minecraft-Resource-Pack/blob/main/3.png)<br><br>
 I highly recommend :<br>
 OptiFine - https://www.optifine.net/home<br>
 OR
