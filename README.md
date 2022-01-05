@@ -8,7 +8,6 @@ The resource pack is updated to the latest version of Minecraft (1.18x). CotCot 
 I highly recommend :<br>
 OptiFine - https://www.optifine.net/home<br>
 OR
-	Fabric - https://fabricmc.net/ - 
 	Sodium - https://www.curseforge.com/minecraft/mc-mods/sodium - 
 	Phosphor - https://www.curseforge.com/minecraft/mc-mods/phosphor - 
 	Lithium - https://www.curseforge.com/minecraft/mc-mods/lithium - 
