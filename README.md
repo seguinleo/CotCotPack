@@ -23,6 +23,8 @@ Faithful by FaithfulTeam - https://faithful.team<br>
 SamaFaithful by Aurelien_Sama - https://www.youtube.com/channel/UCM2e9ub5nKQIvYbIPxSTbOg<br>
 Dark UI 32x by that_jogurciQ - https://www.curseforge.com/minecraft/texture-packs/dark-ui-32x<br><br>
 
+[![Download](https://www.pngall.com/wp-content/uploads/2/Downloadable-PDF-Button-PNG-Image.png)](https://github.com/PouletEnSlip/CotCotPack/releases)
+
 It is not to be distributed and all assets within said
 resource pack are under the copyright of PouletEnSlip.<br>
 
