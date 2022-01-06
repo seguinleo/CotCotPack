@@ -23,25 +23,7 @@ Faithful by FaithfulTeam - https://faithful.team<br>
 SamaFaithful by Aurelien_Sama - https://www.youtube.com/channel/UCM2e9ub5nKQIvYbIPxSTbOg<br>
 Dark UI 32x by that_jogurciQ - https://www.curseforge.com/minecraft/texture-packs/dark-ui-32x<br><br>
 
-<input name="BoutonAjout" type="submit" class="bouton" value="Ajouter des données"><br><br>
-<style>.bouton {
-	background-color: #39e;
-	border: 1px solid #39e;
-	border-radius: 5px;
-	color: white;
-	padding: 10px 30px;
-	text-align: center;
-	text-decoration: none;
-	display: inline-block;
-	font-size: 18px;
-	box-shadow: 0 2px 4px 0 rgba(0,0,0,0.2), 0 1px 5px 0 rgba(0,0,0,0.19);
-	transition-duration: 0.2s;
-}
-
-.bouton:hover {
-	background-color: white;
-	color: #39e;
-}</style>
+custom: ["https://www.paypal.me/octocat", octocat.com]
 
 It is not to be distributed and all assets within said
 resource pack are under the copyright of PouletEnSlip.<br>
