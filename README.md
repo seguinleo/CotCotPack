@@ -16,7 +16,7 @@ OptiFine - https://www.optifine.net/home<br>
 	Colormatic - https://www.curseforge.com/minecraft/mc-mods/colormatic - 
 	Iris - https://www.curseforge.com/minecraft/mc-mods/irisshaders<br>
 <b>AND</b>
-Complementary Shaders - https://www.curseforge.com/minecraft/customization/complementary-shaders<br><br>
+Complementary Shaders - https://www.curseforge.com/minecraft/customization/complementary-shaders<br>
 
 <b>Some textures made by :</b><br>
 Faithful by FaithfulTeam - https://faithful.team<br>
