@@ -8,13 +8,13 @@ The resource pack is updated to the latest version of Minecraft (1.18.x), but al
 <b>I highly recommend :</b><br>
 OptiFine - https://www.optifine.net/home<br>
 <b>OR</b>
-	Sodium - https://www.curseforge.com/minecraft/mc-mods/sodium - 
-	Phosphor - https://www.curseforge.com/minecraft/mc-mods/phosphor - 
-	Lithium - https://www.curseforge.com/minecraft/mc-mods/lithium - 
-	Indium - https://www.curseforge.com/minecraft/mc-mods/indium/files - 
-	Continuity - https://www.curseforge.com/minecraft/mc-mods/continuity/files - 
-	Colormatic - https://www.curseforge.com/minecraft/mc-mods/colormatic - 
-	Iris - https://www.curseforge.com/minecraft/mc-mods/irisshaders<br>
+* Sodium - https://www.curseforge.com/minecraft/mc-mods/sodium
+* Phosphor - https://www.curseforge.com/minecraft/mc-mods/phosphor
+* Lithium - https://www.curseforge.com/minecraft/mc-mods/lithium
+* Indium - https://www.curseforge.com/minecraft/mc-mods/indium/files
+* Continuity - https://www.curseforge.com/minecraft/mc-mods/continuity/files
+* Colormatic - https://www.curseforge.com/minecraft/mc-mods/colormatic
+* Iris - https://www.curseforge.com/minecraft/mc-mods/irisshaders<br>
 <b>AND</b>
 Complementary Shaders - https://www.curseforge.com/minecraft/customization/complementary-shaders<br>
 
