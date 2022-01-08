@@ -5,7 +5,7 @@
 
 ![Download](https://github.com/PouletEnSlip/Minecraft-Resource-Pack/blob/main/Images/0.png)
 
-<img src="https://github.com/PouletEnSlip/Minecraft-Resource-Pack/blob/main/Images/0.png" style="display: block; margin: auto;" />
+<img src="{{https://pouletenslip.github.io/CotCotPack/}}/Images/0.png" style="display: block; margin: auto;" />
 
 ![Download](https://github.com/PouletEnSlip/Minecraft-Resource-Pack/blob/main/Images/2.png)
 
