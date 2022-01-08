@@ -36,4 +36,4 @@ Complementary Shaders - https://www.curseforge.com/minecraft/customization/compl
 It is not to be distributed and all assets within said
 resource pack are under the copyright of PouletEnSlip.
 
-Made by PouletEnSlip © 2022 - All Rights Reserved
+Made by **PouletEnSlip** © 2022 - All Rights Reserved
