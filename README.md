@@ -18,7 +18,6 @@
 * [`Lithium`](https://www.curseforge.com/minecraft/mc-mods/lithium)
 * [`Indium`](https://www.curseforge.com/minecraft/mc-mods/indium/files)
 * [`Continuity`](https://www.curseforge.com/minecraft/mc-mods/continuity/files)
-* [`Colormatic`](https://www.curseforge.com/minecraft/mc-mods/colormatic)
 * [`Iris`](https://www.curseforge.com/minecraft/mc-mods/irisshaders)
 
 **AND**
