@@ -6,8 +6,6 @@
 
 ![1](https://github.com/PouletEnSlip/pouletenslip.github.io/blob/main/pages/img/1.png)
 
-![2](https://github.com/PouletEnSlip/pouletenslip.github.io/blob/main/pages/img/2.png)
-
 ## I highly recommend :
 
 [`OptiFine`](https://www.optifine.net/home)
