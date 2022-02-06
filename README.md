@@ -27,7 +27,7 @@
 
 [`Faithful by FaithfulTeam`](https://faithful.team) | [`SamaFaithful by Aurelien_Sama`](https://www.youtube.com/channel/UCM2e9ub5nKQIvYbIPxSTbOg) | [`Dark UI 32x by that_jogurciQ`](https://www.curseforge.com/minecraft/texture-packs/dark-ui-32x)
 
-[![Download](img/dl.png)](https://github.com/PouletEnSlip/CotCotPack/releases)
+[![Download](https://github.com/PouletEnSlip/pouletenslip.github.io/blob/main/pages/img/dl.png)](https://github.com/PouletEnSlip/CotCotPack/releases)
 
 It is not to be distributed and all assets within said
 resource pack are under the copyright of PouletEnSlip.
