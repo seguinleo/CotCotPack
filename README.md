@@ -1,4 +1,4 @@
-# CotCotPack
+[![](https://github.com/PouletEnSlip/pouletenslip.github.io/blob/main/pages/img/logo.png)](https://pouletenslip.github.io/pages/cotcotpack.html)
 
 [![](https://img.shields.io/badge/1.8.x-version-44c62e?style=for-the-badge)](https://minecraft.fandom.com/wiki/Java_Edition_1.8) [![](https://img.shields.io/badge/1.18.x-version-44c62e?style=for-the-badge)](https://minecraft.fandom.com/wiki/Java_Edition_1.18) [![](https://img.shields.io/badge/Bedrock-version-44c62e?style=for-the-badge)](https://minecraft.fandom.com/wiki/Bedrock_Edition)
 
