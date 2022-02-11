@@ -10,22 +10,22 @@
 
 ## I highly recommend :
 
-[`OptiFine`](https://www.optifine.net/home)
+[OptiFine](https://www.optifine.net/home)
 
 **OR**
-* [`Sodium`](https://www.curseforge.com/minecraft/mc-mods/sodium)
-* [`Phosphor`](https://www.curseforge.com/minecraft/mc-mods/phosphor)
-* [`Lithium`](https://www.curseforge.com/minecraft/mc-mods/lithium)
-* [`Indium`](https://www.curseforge.com/minecraft/mc-mods/indium)
-* [`Continuity`](https://www.curseforge.com/minecraft/mc-mods/continuity)
-* [`Iris`](https://www.curseforge.com/minecraft/mc-mods/irisshaders)
+* [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium)
+* [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor)
+* [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium)
+* [Indium](https://www.curseforge.com/minecraft/mc-mods/indium)
+* [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity)
+* [Iris](https://www.curseforge.com/minecraft/mc-mods/irisshaders)
 
 **AND**
-[`Complementary Shaders`](https://www.curseforge.com/minecraft/customization/complementary-shaders)
+[Complementary Shaders](https://www.curseforge.com/minecraft/customization/complementary-shaders)
 
 ## Some textures made by :
 
-[`Faithful by FaithfulTeam`](https://faithful.team) | [`SamaFaithful by Aurelien_Sama`](https://www.youtube.com/channel/UCM2e9ub5nKQIvYbIPxSTbOg) | [`Dark UI 32x by that_jogurciQ`](https://www.curseforge.com/minecraft/texture-packs/dark-ui-32x)
+[Faithful by FaithfulTeam](https://faithful.team) | [SamaFaithful by Aurelien_Sama](https://www.youtube.com/channel/UCM2e9ub5nKQIvYbIPxSTbOg) | [Dark UI 32x by that_jogurciQ](https://www.curseforge.com/minecraft/texture-packs/dark-ui-32x)
 
 [![Download](https://github.com/PouletEnSlip/pouletenslip.github.io/blob/main/pages/img/dl.png)](https://github.com/PouletEnSlip/CotCotPack/releases)
 
