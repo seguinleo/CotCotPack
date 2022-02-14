@@ -27,6 +27,6 @@
 
 [Faithful by FaithfulTeam](https://faithful.team) | [SamaFaithful by Aurelien_Sama](https://www.youtube.com/channel/UCM2e9ub5nKQIvYbIPxSTbOg) | [Dark UI 32x by that_jogurciQ](https://www.curseforge.com/minecraft/texture-packs/dark-ui-32x)
 
-[![GitHub Downloads](https://img.shields.io/github/downloads/PouletEnSlip/CotCotPack/total?label=Downloads&logo=github&cacheSeconds=3600)](https://github.com/PouletEnSlip/CotCotPack/releases)
+[![GitHub Downloads](https://img.shields.io/github/downloads/PouletEnSlip/CotCotPack/total?label=Downloads&logo=github&cacheSeconds=360)](https://github.com/PouletEnSlip/CotCotPack/releases)
 
 Made by **PouletEnSlip** © 2022 - All Rights Reserved
