@@ -21,6 +21,21 @@
 **AND**
 [Complementary Shaders](https://www.curseforge.com/minecraft/customization/complementary-shaders)
 
+## Features
+* Animated items
+* 3D models
+* Alternative textures
+* Connected textures
+* Emissive textures
+* Custom colormap
+* Custom lightmap
+* Custom sounds
+* Custom fonts
+* Custom GUI
+* Custom sky (only OptiFine version)
+* Support CTM, CEM and CIT textures
+* Support realms textures
+
 ## Some textures made by :
 
 [Faithful by FaithfulTeam](https://faithful.team) | [SamaFaithful by Aurelien_Sama](https://www.youtube.com/channel/UCM2e9ub5nKQIvYbIPxSTbOg) | [Dark UI 32x by that_jogurciQ](https://www.curseforge.com/minecraft/texture-packs/dark-ui-32x)
