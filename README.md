@@ -30,9 +30,8 @@
 * Custom colormap
 * Custom lightmap
 * Custom sounds
-* Custom fonts
 * Custom GUI
-* Custom sky (only OptiFine version)
+* Custom sky
 * Support CTM, CEM and CIT textures
 * Support realms textures
 
