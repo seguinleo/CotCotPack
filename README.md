@@ -1,4 +1,4 @@
-[![](https://github.com/PouletEnSlip/CotCotPack/blob/main/img/logo.png)](https://pouletenslip.github.io/pages/cotcotpack/)
+[![](https://github.com/PouletEnSlip/pouletenslip.github.io/blob/main/pages/cotcotpack/img/logo.png)](https://pouletenslip.github.io/pages/cotcotpack/)
 
 **CotCot** is a PVP / Build / Survival resource pack for Minecraft Java and Bedrock. The resource pack is compatible from 1.7.2 to 1.8.9 and from 1.13 to 1.19.x. CotCot is a Faithful edit with animated items, 3D models, alternative textures and custom colormap/lightmap and more. Fully compatible with OptiFine and Sodium. It is also PVP-friendly with Low Fire, Clean Water or small swords. Textures are compressed and optimized for toasters.
 
