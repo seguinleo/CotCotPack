@@ -3,7 +3,7 @@
         "": [
             { "model": "block/cornflower" },
             { "model": "block/cornflower/0" },
-	    { "model": "block/cornflower/1" }
+            { "model": "block/cornflower/1" }
         ]
     }
 }
