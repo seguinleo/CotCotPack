@@ -1,0 +1,31 @@
+#----v22.6.1----#
+-Optimize all files thanks to VoidTwo
+-Add missing files from sources
+
+#----v22.6----#
+-Update for Java 1.19
+-Delete old font textures
+-Add alternative textures for grass
+
+#----v21.30----#
+-Update for Java 1.18
+-Better differentiation between snow and powedr_snow
+
+#----v21.6----#
+-Update for Java 1.17
+-Add alternative textures for ores
+
+#----v20.6----#
+-Update for Java 1.16
+-Optimize the size of all files
+-Add dark GUI
+-Change lots of textures
+
+#----v19.10----#
+-Update for Java 1.15
+-Add lots of alternative textures
+-Change colormap
+-Change sky
+
+#----v1.0----#
+-Complete overhaul of Faithful pack
