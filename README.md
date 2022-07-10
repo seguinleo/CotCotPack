@@ -32,13 +32,15 @@ To make the resource pack work, you need [OptiFine](https://www.optifine.net/hom
 * Custom sounds
 * Custom GUI
 * Custom sky
-* Support CTM, CEM and CIT textures
+* Support CTM and CIT textures
 * Support realms textures
 
 ## Some textures made by:
 
 [Faithful by FaithfulTeam](https://faithful.team) | [SamaFaithful by Aurelien_Sama](https://www.youtube.com/channel/UCM2e9ub5nKQIvYbIPxSTbOg) | [Dark UI 32x by that_jogurciQ](https://www.curseforge.com/minecraft/texture-packs/dark-ui-32x)
 
-See my pack on [CurseForge](https://www.curseforge.com/minecraft/texture-packs/cotcotpack/)
+## Download:
+
+Download my pack on [Github](https://github.com/PouletEnSlip/CotCotPack/releases) and [CurseForge](https://www.curseforge.com/minecraft/texture-packs/cotcotpack/)
 
 Made by **PouletEnSlip** © 2022 - All Rights Reserved
