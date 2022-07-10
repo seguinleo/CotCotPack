@@ -1,3 +1,6 @@
+#----v22.7----#
+-Change powder_snow texture
+
 #----v22.6.1----#
 -Optimize all files thanks to VoidTwo
 -Add missing files from sources
@@ -9,11 +12,14 @@
 
 #----v21.30----#
 -Update for Java 1.18
--Better differentiation between snow and powedr_snow
+-Better differentiation between snow and powder_snow
 
 #----v21.6----#
 -Update for Java 1.17
 -Add alternative textures for ores
+
+#----v21.4----#
+-Change enchanting table textures
 
 #----v20.6----#
 -Update for Java 1.16
@@ -26,6 +32,3 @@
 -Add lots of alternative textures
 -Change colormap
 -Change sky
-
-#----v1.0----#
--Complete overhaul of Faithful pack
