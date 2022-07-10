@@ -15,12 +15,11 @@
 [OptiFine](https://www.optifine.net/home)
 
 **OR**
-* [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium)
-* [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor)
-* [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium)
-* [Indium](https://www.curseforge.com/minecraft/mc-mods/indium)
-* [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity)
-* [Iris](https://www.curseforge.com/minecraft/mc-mods/irisshaders)
+* [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) for performance, [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor) and [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) for performance
+* [Indium](https://www.curseforge.com/minecraft/mc-mods/indium) to make Continuity work
+* [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity) for alternative textures
+* [CIT Resewn](https://www.curseforge.com/minecraft/mc-mods/cit-resewn) for others alternative textures
+* [Iris](https://www.curseforge.com/minecraft/mc-mods/irisshaders) for shaders
 
 **AND**
 [Complementary Shaders](https://www.curseforge.com/minecraft/customization/complementary-shaders)
