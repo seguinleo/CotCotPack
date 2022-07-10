@@ -10,11 +10,11 @@
 
 [More pictures...](https://github.com/PouletEnSlip/CotCotPack/blob/main/img/)
 
-## How to install :
+## How to install:
 
 Drag the ZIP file in ```C:\Users\AppData\Roaming\.minecraft\resourcepacks\```
 
-To make the resource pack work, you need [OptiFine](https://www.optifine.net/home), but I highly recommend these Fabric mods for best performance :
+To make the resource pack work, you need [OptiFine](https://www.optifine.net/home), but I highly recommend these Fabric mods for best performance:
 
 * [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium), [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor) and [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium), for performance
 * [Indium](https://www.curseforge.com/minecraft/mc-mods/indium), to make Continuity work with Sodium
@@ -23,7 +23,7 @@ To make the resource pack work, you need [OptiFine](https://www.optifine.net/hom
 * [Iris](https://www.curseforge.com/minecraft/mc-mods/irisshaders), for shaders
 * [Complementary Shaders](https://www.curseforge.com/minecraft/customization/complementary-shaders), the shader pack I use
 
-## Features :
+## Features:
 * Animated items
 * 3D models
 * Alternative textures
@@ -37,7 +37,7 @@ To make the resource pack work, you need [OptiFine](https://www.optifine.net/hom
 * Support CTM, CEM and CIT textures
 * Support realms textures
 
-## Some textures made by :
+## Some textures made by:
 
 [Faithful by FaithfulTeam](https://faithful.team) | [SamaFaithful by Aurelien_Sama](https://www.youtube.com/channel/UCM2e9ub5nKQIvYbIPxSTbOg) | [Dark UI 32x by that_jogurciQ](https://www.curseforge.com/minecraft/texture-packs/dark-ui-32x)
 
