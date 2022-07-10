@@ -8,8 +8,6 @@
 
 ![2](https://github.com/PouletEnSlip/CotCotPack/blob/main/img/5.png)
 
-[More pictures...](https://github.com/PouletEnSlip/CotCotPack/blob/main/img/)
-
 ## How to install:
 
 Drag the ZIP file in ```C:\Users\AppData\Roaming\.minecraft\resourcepacks\```
