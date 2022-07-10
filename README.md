@@ -25,7 +25,7 @@
 **AND**
 [Complementary Shaders](https://www.curseforge.com/minecraft/customization/complementary-shaders)
 
-## Features
+## Features :
 * Animated items
 * 3D models
 * Alternative textures
