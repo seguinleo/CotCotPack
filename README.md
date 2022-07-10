@@ -10,19 +10,18 @@
 
 [More pictures...](https://github.com/PouletEnSlip/CotCotPack/blob/main/img/)
 
-## I highly recommend :
+## How to install :
 
-[OptiFine](https://www.optifine.net/home)
+Drag the ZIP file in ```C:\Users\AppData\Roaming\.minecraft\resourcepacks\```
 
-**OR (better for 1.13 to 1.19.x)**
-* [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium), [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor) and [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) for performance
-* [Indium](https://www.curseforge.com/minecraft/mc-mods/indium) to make Continuity work
-* [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity) for alternative textures
-* [CIT Resewn](https://www.curseforge.com/minecraft/mc-mods/cit-resewn) for others alternative textures
-* [Iris](https://www.curseforge.com/minecraft/mc-mods/irisshaders) for shaders
+To make the resource pack work, you need [OptiFine](https://www.optifine.net/home), but I highly recommend these Fabric mods for best performance :
 
-**AND**
-[Complementary Shaders](https://www.curseforge.com/minecraft/customization/complementary-shaders)
+* [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium), [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor) and [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium), for performance
+* [Indium](https://www.curseforge.com/minecraft/mc-mods/indium), to make Continuity work with Sodium
+* [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity), for alternative textures (blocks)
+* [CIT Resewn](https://www.curseforge.com/minecraft/mc-mods/cit-resewn), for alternative textures (items)
+* [Iris](https://www.curseforge.com/minecraft/mc-mods/irisshaders), for shaders
+* [Complementary Shaders](https://www.curseforge.com/minecraft/customization/complementary-shaders), the shader pack I use
 
 ## Features :
 * Animated items
