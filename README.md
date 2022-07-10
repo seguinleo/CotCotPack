@@ -14,7 +14,7 @@
 
 [OptiFine](https://www.optifine.net/home)
 
-**OR**
+**OR (better for 1.13 to 1.19.x)**
 * [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium), [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor) and [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) for performance
 * [Indium](https://www.curseforge.com/minecraft/mc-mods/indium) to make Continuity work
 * [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity) for alternative textures
