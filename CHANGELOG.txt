@@ -1,3 +1,7 @@
+#----v22.7.1----#
+-Add 3D models for amethyst_cluster and pointed_dripstone
+-Add textures for bed items
+
 #----v22.7----#
 -Change powder_snow texture
 
