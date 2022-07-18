@@ -1,3 +1,8 @@
+#----v22.7.2----#
+-Add animated amethyst_shard
+-Change totem_of_unying texture
+-Change creeper texture
+
 #----v22.7.1----#
 -Add 3D models for amethyst_cluster and pointed_dripstone
 -Add textures for bed items
