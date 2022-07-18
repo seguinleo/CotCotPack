@@ -1,6 +1,6 @@
 #----v22.7.2----#
 -Add animated amethyst_shard
--Change totem_of_unying texture
+-Change totem_of_undying texture
 -Change creeper texture
 
 #----v22.7.1----#
