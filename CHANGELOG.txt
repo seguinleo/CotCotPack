@@ -1,3 +1,8 @@
+#----v22.10.1----#
+-Update dark GUI
+-Change golden_carrot texture
+-Remove animated amethyst_shard
+
 #----v22.7.2----#
 -Add animated amethyst_shard
 -Change totem_of_undying texture
