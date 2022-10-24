@@ -8,10 +8,13 @@
 
 ![2](https://github.com/PouletEnSlip/CotCotPack/blob/main/img/5.png)
 
+## Download:
+Download my pack on [CurseForge](https://www.curseforge.com/minecraft/texture-packs/cotcotpack/).
+
 ## How to install:
 Drag and drop the ZIP file in ```C:\Users\AppData\Roaming\.minecraft\resourcepacks\```
 
-To make the resource pack work, you need [OptiFine](https://www.optifine.net/home), but I highly recommend these Fabric mods for best performance:
+To run the resource pack, you can install [OptiFine](https://www.optifine.net/home), but I highly recommend these Fabric mods for better performance:
 
 * [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium), [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor) and [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium), for performance
 * [Indium](https://www.curseforge.com/minecraft/mc-mods/indium), to make Continuity work with Sodium
@@ -36,8 +39,5 @@ To make the resource pack work, you need [OptiFine](https://www.optifine.net/hom
 
 ## Some textures made by:
 [Faithful by FaithfulTeam](https://www.curseforge.com/minecraft/texture-packs/faithful-32x) | [SamaFaithful by Aurelien_Sama](https://www.youtube.com/channel/UCM2e9ub5nKQIvYbIPxSTbOg) | [Dark UI 32x by that_jogurciQ](https://www.curseforge.com/minecraft/texture-packs/dark-ui-32x)
-
-## Download:
-Download my pack on [CurseForge](https://www.curseforge.com/minecraft/texture-packs/cotcotpack/).
 
 Made by **PouletEnSlip** © 2022 - All Rights Reserved
