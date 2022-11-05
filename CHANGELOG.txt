@@ -39,7 +39,7 @@
 -Change powder_snow texture
 
 #----v21.6.1----# JAVA 1.17 UPDATE
--Add alternative textures for ores
+-Change alternative ores textures
 
 #----v21.4.1----#
 -Change enchanting table textures
