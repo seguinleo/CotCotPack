@@ -1,48 +1,64 @@
-#----v22.10.1----#
--Update dark GUI
--Change golden_carrot texture
--Remove animated amethyst_shard
+#----v22.11.1----#
+-Change cobblestone texture
+-Change glowstone texture
+-Change gravel texture
+-Change mossy_cobblestone texture
+-Change quartz texture
+-Change wheat_seeds texture
 
-#----v22.7.2----#
--Add animated amethyst_shard
+#----v22.10.1----#
+-Change golden_carrot texture
+-Remove animated amethyst_shard texture
+-Update dark GUI
+
+#----v22.7.3----#
+-Add animated amethyst_shard texture
 -Change totem_of_undying texture
 -Change creeper texture
 
-#----v22.7.1----#
+#----v22.7.2----#
 -Add 3D models for amethyst_cluster and pointed_dripstone
--Add textures for bed items
+-Add custom textures for bed items
 
-#----v22.7----#
+#----v22.7.1----#
 -Change powder_snow texture
 
-#----v22.6.1----#
--Optimize all files thanks to VoidTwo
+#----v22.6.2----#
 -Add missing files from sources
+-Optimize all files thanks to VoidTwo
 
-#----v22.6----#
--Update for Java 1.19
--Delete old font textures
+#----v22.6.1----# JAVA 1.19 UPDATE
 -Add alternative textures for grass
+-Delete old font textures
 
-#----v21.30----#
--Update for Java 1.18
--Better differentiation between snow and powder_snow
+#----v22.2.1----#
+-Add custom grass textures
 
-#----v21.6----#
--Update for Java 1.17
+#----v21.11.1----# JAVA 1.18 UPDATE
+-Change snow texture 
+-Change powder_snow texture
+
+#----v21.6.1----# JAVA 1.17 UPDATE
 -Add alternative textures for ores
 
-#----v21.4----#
+#----v21.4.1----#
 -Change enchanting table textures
 
-#----v20.6----#
--Update for Java 1.16
--Optimize the size of all files
+#----v21.2.1----#
+-Add alternative ores textures
+
+#----v20.6.1----# JAVA 1.16 UPDATE
 -Add dark GUI
 -Change lots of textures
+-Optimize all textures
 
-#----v19.10----#
--Update for Java 1.15
+#----v20.5.1----#
+-Change leaves textures
+
+#----v19.12.1----#
+-Add alternative bookshelf textures
+
+#----v19.10.1----# JAVA 1.15 UPDATE
 -Add lots of alternative textures
--Change colormap
--Change sky
+-Change colormap texture
+-Change sky texture
