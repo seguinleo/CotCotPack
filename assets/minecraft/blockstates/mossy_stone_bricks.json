@@ -1,9 +1,0 @@
-{
-    "variants": {
-        "": [
-            { "model": "block/mossy_stone_bricks" },
-            { "model": "block/mossy_stone_bricks/0" },
-            { "model": "block/mossy_stone_bricks/1" }
-        ]
-    }
-}
