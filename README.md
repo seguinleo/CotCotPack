@@ -1,9 +1,5 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/PouletEnSlip/CotCotPack?style=for-the-badge)
 
-<a aria-label="curseforge downloads" href="https://www.curseforge.com/minecraft/texture-packs/cotcotpack/files">
-  <img src="https://img.shields.io/endpoint?url=https://api.darkomizer.com/shields/downloads/curseforge" alt="downloads" />
-</a>
-
 **CotCot** is a PVP / Build / Survival resource pack for Minecraft Java. CotCot is a Faithful edit with animated items, 3D models, alternative textures and custom colormap/lightmap and more. Fully compatible with OptiFine and Sodium. It is also PVP-friendly with Low Fire, Clean Water or small swords. Textures are compressed and optimized for toasters.
 
 ![0](https://github.com/PouletEnSlip/CotCotPack/blob/main/img/0.png)
