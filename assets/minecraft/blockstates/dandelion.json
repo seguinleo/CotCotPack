@@ -1,9 +1,0 @@
-{
-    "variants": {
-        "": [
-            { "model": "block/dandelion" },
-            { "model": "block/dandelion/0" },
-            { "model": "block/dandelion/1" }
-        ]
-    }
-}
