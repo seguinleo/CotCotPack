@@ -1,0 +1,69 @@
+#----v23.1.1----#
+-Structure fixes
+-Change grass texture
+-Update lots of old textures
+
+#----v22.11.1----#
+-Change cobblestone texture
+-Change glowstone texture
+-Change gravel texture
+-Change mossy_cobblestone texture
+-Change quartz texture
+-Change wheat_seeds texture
+
+#----v22.10.1----#
+-Change golden_carrot texture
+-Remove animated amethyst_shard texture
+-Update dark GUI
+
+#----v22.7.3----#
+-Add animated amethyst_shard texture
+-Change totem_of_undying texture
+-Change creeper texture
+
+#----v22.7.2----#
+-Add 3D models for amethyst_cluster and pointed_dripstone
+-Add custom textures for bed items
+
+#----v22.7.1----#
+-Change powder_snow texture
+
+#----v22.6.2----#
+-Add missing files from sources
+-Optimize all files thanks to VoidTwo
+
+#----v22.6.1----# JAVA 1.19 UPDATE
+-Add alternative textures for grass
+-Delete old font textures
+
+#----v22.2.1----#
+-Add custom grass textures
+
+#----v21.11.1----# JAVA 1.18 UPDATE
+-Change snow texture 
+-Change powder_snow texture
+
+#----v21.6.1----# JAVA 1.17 UPDATE
+-Change alternative ores textures
+
+#----v21.4.1----#
+-Change enchanting table textures
+
+#----v21.2.1----#
+-Add alternative ores textures
+
+#----v20.6.1----# JAVA 1.16 UPDATE
+-Add dark GUI
+-Change lots of textures
+-Optimize all textures
+
+#----v20.5.1----#
+-Change leaves textures
+
+#----v19.12.1----#
+-Add alternative bookshelf textures
+
+#----v19.10.1----# JAVA 1.15 UPDATE
+-Add lots of alternative textures
+-Change colormap texture
+-Change sky texture
