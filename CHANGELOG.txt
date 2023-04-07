@@ -1,3 +1,7 @@
+#----v23.4.1----#
+-Add 1.19.4 textures
+-Update lots of old textures
+
 #----v23.1.1----#
 -Structure fixes
 -Change grass texture
