@@ -1,3 +1,6 @@
+#----v23.8.1----# JAVA 1.20 UPDATE
+-Update some old textures
+
 #----v23.4.2----#
 -Change chests texture
 -Change diamond sword texture
