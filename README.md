@@ -1,13 +1,13 @@
-![Version](https://img.shields.io/badge/version-1.7.2_to_1.19.4-blue?style=for-the-badge)
+![Version](https://img.shields.io/badge/version-1.7.2_to_1.20.x-blue?style=for-the-badge)
 ![Licence](https://img.shields.io/badge/licence-CC_BY_4.0-red?style=for-the-badge)
 
 **CotCot** is a PVP/Build/Survival 32x Resource Pack for Minecraft Java Edition. It is a Faithful Edit with animated items, 3D models, alternative textures, custom colormap/lightmap and more. Fully compatible with OptiFine and Sodium. It is also PVP friendly with Low Fire, Clean Water and Short Swords. Textures are compressed and optimized for low-end PCs.
 
-![0](https://raw.githubusercontent.com/PouletEnSlip/CotCotPack/main/img/0.png)
+![0](https://raw.githubusercontent.com/seguinleo/CotCotPack/main/img/0.png)
 
-![1](https://raw.githubusercontent.com/PouletEnSlip/CotCotPack/main/img/1.png)
+![1](https://raw.githubusercontent.com/seguinleo/CotCotPack/main/img/1.png)
 
-![2](https://raw.githubusercontent.com/PouletEnSlip/CotCotPack/main/img/2.png)
+![2](https://raw.githubusercontent.com/seguinleo/CotCotPack/main/img/2.png)
 
 ## Download:
 Download my pack on [CurseForge](https://www.curseforge.com/minecraft/texture-packs/cotcotpack/) or [Modrinth](https://modrinth.com/resourcepack/cotcotpack).
@@ -15,7 +15,7 @@ Download my pack on [CurseForge](https://www.curseforge.com/minecraft/texture-pa
 ## How to install:
 Drag and drop the ZIP file in ``C:\Users\AppData\Roaming\.minecraft\resourcepacks\``.
 
-To use all the features of the pack, you can install OptiFine, but I highly recommend these Fabric mods for better performance:
+To use all the features of the pack, you can install OptiFine, but I highly recommend these Fabric mods instead for better performance:
 
 * [Sodium](https://modrinth.com/mod/sodium), [Phosphor](https://modrinth.com/mod/phosphor) and [Lithium](https://modrinth.com/mod/lithium), to improve performance
 * [Continuity](https://modrinth.com/mod/continuity), for alternative textures (blocks)
@@ -37,7 +37,8 @@ To use all the features of the pack, you can install OptiFine, but I highly reco
 * Emissive textures
 * Support CTM and CIT textures
 
+## Update frequency:
+I update the pack as soon as possible. Sometimes I have to wait for Faithful and Continuity to update.
+
 ## Some textures made by:
 [Faithful by FaithfulTeam](https://modrinth.com/resourcepack/faithful-32x) | [SamaFaithful by Aurelien_Sama](https://www.youtube.com/@AurelienSama) | [Dark UI 32x by that_jogurciQ](https://modrinth.com/resourcepack/dark-ui-32)
-
-_©PouletEnSlip_
