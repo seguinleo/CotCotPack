@@ -1,3 +1,8 @@
+#----v23.9.1----#
+-Structure fixes for 1.20.2 thanks to Mojang Slicer Tool
+-Fix jack_o_lantern missing bottom texture
+-Fix enchanted_glint color
+
 #----v23.8.1----# JAVA 1.20 UPDATE
 -Update some old textures
 
