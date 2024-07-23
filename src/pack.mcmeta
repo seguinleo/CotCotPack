@@ -1,10 +1,6 @@
 {
   "pack": {
-    "pack_format": 22,
-    "description": "1.20.4 | §4§lby PouletEnSlip",
-    "supported_formats": {
-      "min_inclusive": 16,
-      "max_inclusive": 22
-    }
+    "pack_format": 34,
+    "description": "1.21 | §4§lby PouletEnSlip"
   }
 }
