@@ -1,6 +1,10 @@
 {
   "pack": {
-    "pack_format": 34,
+    "pack_format": 46,
     "description": "1.21 | §4§lby PouletEnSlip"
+  },
+  "supported_formats": {
+    "min_inclusive": 42,
+    "max_inclusive": 46
   }
 }
