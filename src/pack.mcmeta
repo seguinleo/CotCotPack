@@ -1,7 +1,13 @@
 {
   "pack": {
-    "description": "1.21 | §4§lby PouletEnSlip",
-    "min_format": 70,
-    "max_format": 75
+    "description": "26.x | §4§lby PouletEnSlip",
+    "min_format": [
+      75,
+      0
+    ],
+    "max_format": [
+      84,
+      0
+    ]
   }
 }
