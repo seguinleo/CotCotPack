@@ -1,4 +1,4 @@
-![Version](https://img.shields.io/badge/version-1.7.2_to_1.21-blue?style=for-the-badge)
+![Version](https://img.shields.io/badge/mc_version-1.7.2_to_26.x-blue?style=for-the-badge)
 ![Licence](https://img.shields.io/badge/licence-CC_BY_4.0-red?style=for-the-badge)
 
 **CotCot** is a PVP/Build/Survival 32x Resource Pack for Minecraft Java Edition. It is a Faithful Edit with animated items, 3D models, alternative textures, custom colormap/lightmap and more. Fully compatible with OptiFine and Sodium. It is also PVP friendly with Low Fire, Clean Water and Short Swords. Textures are compressed and optimized for low-end PCs.
