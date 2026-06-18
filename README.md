@@ -7,7 +7,8 @@
 
 ![1](https://raw.githubusercontent.com/seguinleo/CotCotPack/main/img/1.png)
 
-## Features:
+## Features
+
 * 3D models
 * Alternative textures
 * Animated items
@@ -20,18 +21,20 @@
 
 To use all the features of the pack, you can install OptiFine, but I highly recommend these Fabric mods instead for better performance:
 
-* [Sodium](https://modrinth.com/mod/sodium) and [Lithium](https://modrinth.com/mod/lithium), to improve performance
-* [Continuity](https://modrinth.com/mod/continuity), for alternative textures (blocks)
+* [Sodium](https://modrinth.com/mod/sodium), [Lithium](https://modrinth.com/mod/lithium), [Entity Culling](https://modrinth.com/mod/entityculling), [FerriteCore](https://modrinth.com/mod/ferrite-core) and [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) to improve performance
+* Enable alternative textures with [Continuity](https://modrinth.com/mod/continuity) (blocks), [CIT Resewn](https://modrinth.com/mod/cit-resewn) (items)
 * [Indium](https://modrinth.com/mod/indium), to make Continuity work with Sodium
-* [CIT Resewn](https://modrinth.com/mod/cit-resewn), for alternative textures (items)
 * [Iris](https://modrinth.com/mod/iris), for shader packs
 * [Complementary Shaders](https://modrinth.com/shader/complementary-reimagined), the shader pack I use
 
-## Download:
+## Download
+
 Download my pack on [CurseForge](https://www.curseforge.com/minecraft/texture-packs/cotcotpack/) or [Modrinth](https://modrinth.com/resourcepack/cotcotpack)
 
-## How to install:
+## How to install
+
 Drag and drop the ZIP file in ``C:\Users\AppData\Roaming\.minecraft\resourcepacks\``
 
-## Some textures made by:
-[Faithful by FaithfulTeam](https://modrinth.com/resourcepack/faithful-32x) | [SamaFaithful by Aurelien_Sama](https://www.youtube.com/@AurelienSama)
+## Some textures made by
+
+[Faithful by FaithfulTeam](https://modrinth.com/resourcepack/faithful-32x) (base), [Default Dark Mode](https://modrinth.com/resourcepack/default-dark-mode) (gui), [SamaFaithful by Aurelien_Sama](https://www.youtube.com/@AurelienSama) ❤️
